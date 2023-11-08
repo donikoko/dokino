@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GoldenZen
 - 👀 I’m interested in you <3
 - 🌱 I’m currently learning on how to sneeze with my eyes open
-- 💞️ I’m looking to collaborate on sword fighting iykyk
 - 📫 How to reach me, just reach me by reaching me
 
 <!---
