@@ -4,7 +4,15 @@
     <title>Unpaid User</title>
   </head>
   <body>
-    <video width="640" height="480" poster="posterpic.png" controls>
+    <video
+      width="640"
+      height="480"
+      poster="posterpic.png"
+      controls
+      muted
+      autoplay
+      loop
+    >
       <source
         src="https://download.blender.org/peach/trailer/trailer_400p.ogg"
         type="video/ogg"
@@ -13,7 +21,32 @@
         src="https://download.blender.org/peach/trailer/trailer_480.mov"
         type="video/mov"
       />
-      Your browser does not  support dis video. Update it 
     </video>
+    <video
+      width="640"
+      height="480"
+      poster="posterpic.png"
+      controls
+      preload="auto"
+    >
+      <source
+        src="https://download.blender.org/peach/trailer/trailer_400p.ogg"
+        type="video/ogg"
+      />
+      <source
+        src="https://download.blender.org/peach/trailer/trailer_480.mov"
+        type="video/mov"
+      />
+      Your browser does not support dis video. Update it
+    </video>
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/r-GSGH2RxJs?si=vC8D1WmwDw2DWrrf"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
   </body>
 </html>
